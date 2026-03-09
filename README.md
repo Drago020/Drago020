@@ -1,16 +1,23 @@
-# Hi 👋 I'm Drago Sensei
+<h1 align="center">
+  Hey, I'm Drago 👋
+</h1>
 
-🎮 I like Minecraft  
-💻 Learning coding  
-📱 Android tweaking  
+<p align="center">
+  <b>16 y/o Learning Developer from Bangladesh 🇧🇩</b><br>
+  <i>"Learning Web Development and HTML&CSS"</i>
+</p>
 
-## 🚀 Skills
-- HTML
-- CSS
-- JavaScript
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=392180&center=true&vCenter=true&width=600&lines=Learning+Web+Development+" alt="Typing SVG" /></a>
+</p>
 
-## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+---
 
-## 🔥 Streak
-![streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+## 🎮 Live Discord Status
+
+<p align="center">
+ <a href="https://discord.com/users/906112630152921089"><img src="https://lanyard.cnrad.dev/api/906112630152921089?borderRadius=30px" 
+     </a>
+</p>
+
+---
