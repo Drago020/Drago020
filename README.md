@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hey, I'm Drago 👋
+  Hey, I'm Drago 
 </h1>
 
 <p align="center">
-  <b>16 y/o Learning Developer from Bangladesh 🇧🇩</b><br>
+  <b>16 y/o Learning Developer from Bangladesh </b><br>
   <i>"Learning Web Development and HTML&CSS"</i>
 </p>
 
