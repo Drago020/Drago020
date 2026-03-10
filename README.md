@@ -22,8 +22,8 @@
 
 ---
 <p align="center">
-  <a href="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi%20I'm%20Drago&fontColor=2186&fontSize=90&textBg=false">
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi%20I'm%20Drago&fontColor=2186&fontSize=90&textBg=false" />
+  <a href="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi%20I'm%20Drago&fontColor=f1c9ff&fontSize=90&textBg=false">
+    <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi%20I'm%20Drago&fontColor=f1c9ff&fontSize=90&textBg=false" />
   </a>
 </p>
 
