@@ -21,3 +21,9 @@
 </p>
 
 ---
+<p align="center">
+<a href="https://capsule-render.vercel.app/api?type=blur&height=300&color=Grey&text=Hi%20im%20Drago&animation=fadeIn" />
+   </a>
+</p>
+
+---
